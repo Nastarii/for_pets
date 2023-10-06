@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034181235111",
+    "project_id": "forpets-bd058",
+    "storage_bucket": "forpets-bd058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034181235111:android:1a164740725d7d480ee682",
+        "android_client_info": {
+          "package_name": "com.for_pets.for_pets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTQLlRxgGHYpqUHHTMyu7PQQiW3Trrq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034181235111:android:a9724c2a10e6e6ae0ee682",
+        "android_client_info": {
+          "package_name": "com.mobileforpets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTQLlRxgGHYpqUHHTMyu7PQQiW3Trrq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
